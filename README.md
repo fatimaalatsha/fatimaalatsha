@@ -27,4 +27,4 @@
 - **Methodologies:** ![Agile](https://img.shields.io/badge/agile-%23000000.svg?&style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/scrum-%23000000.svg?&style=for-the-badge&logo=scrum&logoColor=white) ![Waterfall](https://img.shields.io/badge/waterfall-%23000000.svg?&style=for-the-badge&logo=waterfall&logoColor=white) ![Lean](https://img.shields.io/badge/lean-%23000000.svg?&style=for-the-badge&logo=lean&logoColor=white) ![BDD](https://img.shields.io/badge/bdd-%23000000.svg?&style=for-the-badge&logo=bdd&logoColor=white)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-alatsha-534316205/)

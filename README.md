@@ -1,7 +1,7 @@
 # Hi there, I'm Fatima Alatsha 👋
 
 ## About Me
-- 👀 Passionate about food and coding
+- 👀 Passionate about food, coding and outdoors
 - 🌱 Full-stack developer with a focus on front-end development
 - 💼 Experienced in teaching full-stack development
 - 💞️ Open to collaborating on exciting projects

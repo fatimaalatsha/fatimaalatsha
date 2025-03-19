@@ -5,7 +5,7 @@
 - 🌱 Full-stack developer with a focus on front-end development
 - 💼 Experienced in teaching full-stack development
 - 💞️ Open to collaborating on exciting projects
-- 📫 Reach me at: [fatimaalatsha@gmail.com](mailto:fatimaalatsha@gmail.com)
+- 📫 Reach me at: [fatima.alatsha@gmail.com](mailto:fatimaalatsha@gmail.com)
 
 ## 🛠️ My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
